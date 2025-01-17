@@ -1,9 +1,13 @@
-# Hello! 👋🏽 my name is **Savion Mull**. I am a student at Century College taking AS Transfer Pathway in Computer Science.  
+# Hello! 👋🏽 my name is **Savion Mull**. 
+
+### Who am I?
+
+### I am a student at Century College taking AS Transfer Pathway in Computer Science.  
 
 ---
 
 * I'm currently in the beginning of my studies taking Object-Oriented Programming in Spring 2025.
-* Also currently a Production Associate at a local warehouse looking to switch professions.
+* Also currently a Production Associate at a local warehouse looking to switch indrustries.
 
 ---
 
@@ -16,13 +20,13 @@
 ---
 
 ## 🛠️ Skills and Tools
-- **Programming Languages**: C/C++, Java (Both progressively getting better)
-- **Version Control**: Git, GitHub
-- **Other Tools**: Visual Studio  
+- Programming Languages: C/C++, Java (Both progressively getting better)
+- Version Control: Git, GitHub
+- Other Tools: Visual Studio  
 
 --- 
 
-###  🪄 About Me
+##  🪄 About Me
 - 🌱 I’m currently learning C, C++, Java and Python.
 - 💞️ I’m looking to collaborate on projects with the languages I am learning above to build skills along with my programming expertise. 
 - 📫 How to reach me: Savion Mull via Linkedin & mull_savion on other socials!
@@ -30,7 +34,7 @@
 
 ---
 
-### ⚡ Fun facts: 
+## ⚡ Fun facts: 
 - I like to compete and like to engage with different communities!
 - I like to read only non-fiction books mostly on STEM topics others on finance/economics!
 - I watch online lectures/tutorials on my free time!
