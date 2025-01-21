@@ -26,7 +26,8 @@ My academic focus also extends to physics and economics, inspiring me to bridge 
 | Self-Directed Learning |
 - Python
 - Linux (Ubuntu)
-- Neovim  
+- Neovim
+
 ---
 
 #### Exploring other programming languages and tools:  
