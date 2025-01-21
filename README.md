@@ -21,7 +21,12 @@ My academic focus also extends to physics and economics, inspiring me to bridge 
 
 ### 🌱 What I'm Learning   
 - C | C++ | Java | Object-Oriented Programming (Spring 2025)
-- Python (Self-Directed Learning) 
+
+
+| Self-Directed Learning |
+- Python
+- Linux (Ubuntu)
+- Neovim  
 ---
 
 #### Exploring other programming languages and tools:  
