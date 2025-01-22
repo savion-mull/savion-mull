@@ -6,14 +6,14 @@ My academic focus also extends to physics and economics, inspiring me to bridge 
 
 ---
 
-### 🛠️ Technical Skills  
+## 🛠️ Technical Skills  
 - **Programming Languages**: C, C++, Java, Python (continuously improving)
 - **Tools**: Git, Visual Studio, Excel
 - **Interests**: Computational Problem Solving, Financial Modeling, Machine Learning, Artificial Intelligence
 
 ---
 
-### 🔍 Current Projects   
+## 🔍 Current Projects   
 - Learning Object-Oriented Programming & algorithm design
 - Python Crash Course - By:Eric Matthes
 - Neovim (Terminal Text Editor)
@@ -21,10 +21,9 @@ My academic focus also extends to physics and economics, inspiring me to bridge 
 
 ---
 
-### 🌱 What I'm Learning   
-- C | C++ | Java | Object-Oriented Programming (Spring 2025)
----
-| Self-Directed Learning |
+## 🌱 What I'm Learning   
+- C | C++ | Java | Object-Oriented Programming (Spring 2025)  
+### Self-Directed Learning 
 - Python
 - Linux | Ubuntu OS | WSL 
 - Neovim
