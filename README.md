@@ -15,17 +15,18 @@ My academic focus also extends to physics and economics, inspiring me to bridge 
 
 ### 🔍 Current Projects   
 - Learning Object-Oriented Programming & algorithm design
-- Exploring projects and programming techniques to apply concepts from my coursework.
+- Python Crash Course - By:Eric Matthes
+- Neovim (Terminal Text Editor)
+- Exploring/Open to additional projects and programming techniques to apply concepts from my coursework.
 
 ---
 
 ### 🌱 What I'm Learning   
 - C | C++ | Java | Object-Oriented Programming (Spring 2025)
-
-
+---
 | Self-Directed Learning |
 - Python
-- Linux (Ubuntu)
+- Linux | Ubuntu OS | WSL 
 - Neovim
 
 ---
