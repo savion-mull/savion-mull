@@ -50,5 +50,5 @@ I am passionate about applying technical skills in software development to drive
 
 ## 📢 Connect with Me  
 For more insights into my academic and professional journey:  
-- Explore my [LinkedIn Profile](https://linkedin.com/in/savion-mull-9a9439324).
+- Explore my [LinkedIn Profile](https://www.linkedin.com/in/savion-m-9a9439324/).
 - Stay tuned for updates and projects on my GitHub.
