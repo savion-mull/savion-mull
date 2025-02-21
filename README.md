@@ -1,7 +1,7 @@
 # My name is **Savion Mull**  😁
 
 ### Who am I?  
-I am a motivated Computer Science student with a strong foundation in C++, and Object-Oriented Programming.
+I am a motivated Computer Science student with a strong foundation in Programming.
 I am passionate about applying technical skills in software development to drive advancements in cutting-edge technologies.
 
 ---
