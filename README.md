@@ -8,7 +8,7 @@ I am passionate about applying technical skills in software development to drive
 
 ## 🛠️ Technical Skills  
 - **Programming Languages**: C, MATLAB, C++, Java, Python (continuously improving)
-- **Tools**: Git, IDE's, Text-Editors
+- **Tools**: Version Control, IDE(s), UNIX/Linux OS, WSL
 - **Interests**: Software Development, AI/ML, & Embedded Systems
 
 ---
