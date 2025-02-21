@@ -1,61 +1,50 @@
 # My name is **Savion Mull**  😁
 
 ### Who am I?  
-I am a computer science student at Century College with a passion for software development and computational problem-solving.
-My academic focus also extends to physics and economics, inspiring me to bridge these disciplines through innovative solutions.
+I am a motivated Computer Science student with a strong foundation in C++, and Object-Oriented Programming.
+I am passionate about applying technical skills in software development to drive advancements in cutting-edge technologies.
 
 ---
 
 ## 🛠️ Technical Skills  
-- **Programming Languages**: C, C++, Java, Python (continuously improving)
-- **Tools**: Git, Visual Studio, Excel
-- **Interests**: Computational Problem Solving, Financial Modeling, Machine Learning, Artificial Intelligence
+- **Programming Languages**: C, MATLAB, C++, Java, Python (continuously improving)
+- **Tools**: Git, IDE's, Text-Editors
+- **Interests**: Software Development, AI/ML, & Embedded Systems
 
 ---
 
 ## 🔍 Current Projects   
-- Learning Object-Oriented Programming & algorithm design
-- Python Crash Course - By:Eric Matthes
-- Neovim (Terminal Text Editor)
+- Learning Object-Oriented Programming & algorithms
 - Exploring/Open to additional projects and programming techniques to apply concepts from my coursework.
 
 ---
 
 ## 🌱 What I'm Learning   
-- C | C++ | Java | Object-Oriented Programming (Spring 2025)  
+- Java & Object-Oriented Programming (Spring 2025)  
 ### Self-Directed Learning 
-- Python
-- Linux | Ubuntu OS | WSL 
-- Neovim
-
+- Automating the Boring Stuff with Python - By: Al Sweigart
+- Neovim (Terminal Text Editor)
 ---
 
 #### Exploring other programming languages and tools:  
-    - Python 
-         - Shell Scripting
-         - Computational Modeling
-         - Language Integration
-         - Versatility
-    - R
-        - Financial & Statistical Modeling
-        - Econometrics
-    - SQL
-        - Database Querying & Management 
-    - Java-Script/Type-Script
-        - Web-Based Applications & Frameworks
-
+# Python 
+    - Scripting
+    - Computational Modeling
+    - API's
+    - Automating Tasks
 ---
 
 ### 💡 Fun Facts  
-- I enjoy exploring the intersection of technology, business, and innovation.
-- Reading STEM and Economics books fuels my curiosity.
-- Self-directed learning, including tutorials and projects, is my approach for additional skill development
+- I enjoy exploring the intersection of technology, business, and innovation. 
+- Reading STEM books fuels my curiosity. 
+- Self-directed learning, including courses and projects, is my approach for additional skill development.
+
 ---
 
 ### 🎯 Long-Term Goals  
-- Pursue a career that integrates software development, AI/ML, and data-driven financial analysis.
-- Contribute to impactful projects in fintech, computational modeling, or innovative technology solutions.
-- Use my interdisciplinary expertise to create meaningful advancements at the intersection of physics, economics, and computing.
+- Pursue a career that integrates software development, AI/ML, and Embedded Systems.
+- Contribute to impactful projects in computational modeling, or engineering solutions.
+- Use my interdisciplinary expertise to create meaningful advancements at the intersection of Electrical Engineering, and Computer Science.
 
 ---
 
