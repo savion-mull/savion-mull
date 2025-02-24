@@ -2,14 +2,14 @@
 
 ### Who am I?  
 I am a motivated Computer Science student with a strong foundation in Programming.
-I am passionate about applying technical skills in software development to drive advancements in cutting-edge technologies.
+I am passionate about applying technical skills in software development to drive advancements in emerging technologies.
 
 ---
 
 ## 🛠️ Technical Skills  
 - **Programming Languages**: C, MATLAB, C++, Java, Python (continuously improving)
 - **Tools**: Version Control, IDE(s), UNIX/Linux OS, WSL
-- **Interests**: Software Development, AI/ML, & Embedded Systems
+- **Interests**: Software Development, AI/ML, & Financial Systems
 
 ---
 
@@ -42,9 +42,9 @@ I am passionate about applying technical skills in software development to drive
 ---
 
 ### 🎯 Long-Term Goals  
-- Pursue a career that integrates software development, AI/ML, and Embedded Systems.
+- Pursue a career that integrates software development, AI/ML, and Financial Systems.
 - Contribute to impactful projects in computational modeling, or engineering solutions.
-- Use my interdisciplinary expertise to create meaningful advancements at the intersection of Electrical Engineering, and Computer Science.
+- Use my interdisciplinary expertise to create meaningful advancements at the intersection of Economics, and Computer Science.
 
 ---
 
