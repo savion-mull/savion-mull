@@ -24,6 +24,7 @@ I am passionate about applying technical skills in software development to drive
 ### Self-Directed Learning 
 - Automating the Boring Stuff with Python - By: Al Sweigart
 - Neovim (Terminal Text Editor)
+
 ---
 
 #### Exploring other programming languages and tools:  
@@ -32,6 +33,7 @@ I am passionate about applying technical skills in software development to drive
     - Computational Modeling
     - API's
     - Automating Tasks
+    
 ---
 
 ### 💡 Fun Facts  
