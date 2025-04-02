@@ -7,7 +7,7 @@ I am a **Computer Science student** at Century College with aspirations to trans
 
 ---
 
-### 💼 Career Goals  
+## 💼 Career Goals  
 - Break into **Investment Banking** divisions with a strong technical and analytical skillset  
 - Leverage **Computer Science, Economics, & Physics** to use tools and models for understanding capital markets
 - Contribute to innovations at the frontier of **Investment, Equity, and Technology**  
@@ -15,7 +15,7 @@ I am a **Computer Science student** at Century College with aspirations to trans
 
 ---
 
-## 🛠️ Technical & Analytical Skills  
+### 🛠️ Technical & Analytical Skills 
 - Programming Languages: C, C++, Java, MATLAB, Python 
 - Tools & Platforms: Git, IDE's, WSL
 
