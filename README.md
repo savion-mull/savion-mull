@@ -1,52 +1,52 @@
-# My name is **Savion Mull**  😁
+# **Savion Mull**  
 
-### Who am I?  
-I am a motivated Computer Science student with a strong foundation in Programming.
-I am passionate about applying technical skills in software development to drive advancements in emerging technologies.
+### About Me  
+I am a **Computer Science student** at Century College with aspirations to transfer into a **double major in Physics and Economics degree**. My academic and professional pursuits revolve around the intersection of **technology, finance, and innovation**. I’m passionate about applying computational and analytical thinking to **financial systems, capital markets, and emerging technologies**. 
 
----
-
-## 🛠️ Technical Skills  
-- **Programming Languages**: C, MATLAB, C++, Java, Python (continuously improving)
-- **Tools**: Version Control, IDE(s), UNIX/Linux OS, WSL
-- **Interests**: Software Development, AI/ML, & Financial Systems
+- **Career Interests**: Investment Banking, Financial Engineering, Software Engineering 
 
 ---
 
-## 🔍 Current Projects   
-- Learning Object-Oriented Programming & algorithms
-- Exploring/Open to additional projects and programming techniques to apply concepts from my coursework.
+### 💼 Career Goals  
+- Break into **Investment Banking** divisions with a strong technical and analytical skillset  
+- Leverage **Computer Science, Economics, & Physics** to use tools and models for understanding capital markets
+- Contribute to innovations at the frontier of **Investment, Equity, and Technology**  
+- Provide lucrative information to corporations to enhance structure, sustainability and market value. 
 
 ---
 
-## 🌱 What I'm Learning   
-- Java & Object-Oriented Programming (Spring 2025)  
-### Self-Directed Learning 
-- Automating the Boring Stuff with Python - By: Al Sweigart
-- Neovim (Terminal Text Editor)
+## 🛠️ Technical & Analytical Skills  
+- Programming Languages: C, C++, Java, MATLAB, Python 
+- Tools & Platforms: Git, IDE's, WSL
 
 ---
 
-#### Exploring other programming languages and tools:  
-# Python 
-    - Scripting
-    - Computational Modeling
-    - API's
-    - Automating Tasks
-    
+## 🔍 Self-Directed Studies  
+- Breaking into Wall Street Platnium    [***Certification Included***]
+- Codecademy: Data Scientist: Machine Learning Specialist Career Path   [***Certification & Projects Included***]
+
+### What Do The Courses Teach? 
+#### Technical Skills
+- Financial Modeling & Banking Case Studies
+- Excel, Powerpoint, & VBA 
+- Data Analysis & Visualization, & Machine Learning Fundamentals
+- Strong Foundation in Data Science Fundamentals including Python and SQL 
+#### Soft Skills
+- Job Interviews, Story Telling, and Answering "Fit" Questions
+- Information Sessions & Interviews, Social Networking (Cold Calls, Emails, & More!)
+---
+
+## 📚 Currently Reading  
+- *Automating the Boring Stuff with Python* ~ Al Sweigart  
+- *Theoretical Foundations of Investment Banking* ~ Andreas Krause  
+- *Investment Banking, Valuation, LBO's, M&A, and IPO's* ~ Joshua Rosenbaum *(Next on the list)* 
+
 ---
 
 ### 💡 Fun Facts  
-- I enjoy exploring the intersection of technology, business, and innovation. 
-- Reading STEM books fuels my curiosity. 
-- Self-directed learning, including courses and projects, is my approach for additional skill development.
-
----
-
-### 🎯 Long-Term Goals  
-- Pursue a career that integrates software development, AI/ML, and Financial Systems.
-- Contribute to impactful projects in computational modeling, or engineering solutions.
-- Use my interdisciplinary expertise to create meaningful advancements at the intersection of Economics, and Computer Science.
+- I like to go for runs, working out, and playing recreational sports with friends. 
+- I love reading and expanding my knowledge across various disciplines. 
+- My favorite foods are Steak, Chicken, and Pasta!
 
 ---
 
