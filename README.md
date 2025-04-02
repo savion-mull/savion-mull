@@ -30,10 +30,12 @@ I am a **Computer Science student** at Century College with aspirations to trans
 - Financial Modeling & Banking Case Studies
 - Excel, Powerpoint, & VBA 
 - Data Analysis & Visualization, & Machine Learning Fundamentals
-- Strong Foundation in Data Science Fundamentals including Python and SQL 
+- Strong Foundation in Data Science Fundamentals including Python and SQL
+
 #### Soft Skills
 - Job Interviews, Story Telling, and Answering "Fit" Questions
 - Information Sessions & Interviews, Social Networking (Cold Calls, Emails, & More!)
+
 ---
 
 ## 📚 Currently Reading  
