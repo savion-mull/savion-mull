@@ -1,9 +1,9 @@
 # **Savion Mull**  
 
 ### About Me  
-I am a **Computer Science student** at Century College with aspirations to transfer into a **double major in Physics and Economics degree**. My academic and professional pursuits revolve around the intersection of **technology, finance, and innovation**. I’m passionate about applying computational and analytical thinking to **financial systems, capital markets, and emerging technologies**. 
+I am a **Computer Science student** at Century College with aspirations to transfer into a **double major in Physics and Economics degree**. My academic and professional pursuits revolve around the intersection of **technology, finance, and innovation**. I’m passionate about applying computational and analytical thinking to the **financial system, capital markets, and innovative technologies**. 
 
-- **Career Interests**: Investment Banking, Financial Engineering, Software Engineering 
+- **Career Interests**: Investment Banking, Financial Analysis, Software Engineering 
 
 ---
 
@@ -26,7 +26,7 @@ I am a **Computer Science student** at Century College with aspirations to trans
 - Codecademy: Data Scientist: Machine Learning Specialist Career Path   [***Certification & Projects Included***]
 
 ### What Do The Courses Teach? 
-#### Technical Skills
+#### Technical & Analytical Skills
 - Financial Modeling & Banking Case Studies
 - Excel, Powerpoint, & VBA 
 - Data Analysis & Visualization, & Machine Learning Fundamentals
@@ -41,18 +41,18 @@ I am a **Computer Science student** at Century College with aspirations to trans
 ## 📚 Currently Reading  
 - *Automating the Boring Stuff with Python* ~ Al Sweigart  
 - *Theoretical Foundations of Investment Banking* ~ Andreas Krause  
-- *Investment Banking, Valuation, LBO's, M&A, and IPO's* ~ Joshua Rosenbaum *(Next on the list)* 
+- *Investment Banking, Valuation, LBO's, M&A, and IPO's* ~ Joshua Rosenbaum ***(Next on the list)*** 
 
 ---
 
 ### 💡 Fun Facts  
 - I like to go for runs, working out, and playing recreational sports with friends. 
 - I love reading and expanding my knowledge across various disciplines. 
-- My favorite foods are Steak, Chicken, and Pasta!
+- My favorite foods are Steak, & Chicken!
 
 ---
 
 ## 📢 Connect with Me  
 For more insights into my academic and professional journey:  
 - Explore my [LinkedIn Profile](https://www.linkedin.com/in/savion-m-9a9439324/).
-- Stay tuned for updates and projects on my GitHub.
+- Checkout my github for periodic updates and projects on my GitHub.
