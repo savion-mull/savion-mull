@@ -24,11 +24,9 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
       
-      # New step to install bundler
       - name: Install Bundler
-        run: gem install bundler
+        run: gem install bundler --user-install
       
-      # Configure GEM_HOME to use a writable directory
       - name: Configure gem path
         run: echo 'export GEM_HOME=$HOME/.gem' >> $GITHUB_ENV
       
