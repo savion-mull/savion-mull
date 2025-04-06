@@ -1,7 +1,7 @@
 # **Savion Mull**  
 
 ### About Me  
-I am a **Computer Science student** at Century College with aspirations to transfer into a **double major in Physics and Economics degree**. My academic and professional pursuits revolve around the intersection of **technology, finance, and innovation**. I’m passionate about applying computational and analytical thinking to **financial models, capital markets, and advancing technology**. 
+I am a **Computer Science student** at Century College with aspirations to transfer into a **double major in Physics and Economics degree**. My academic and professional pursuits revolve around the intersection of **technology and finance**. I’m passionate about applying computational and analytical thinking to **financial models, capital markets, and advancing technology**. 
 
 - **Career Interests**: Investment Banking, Financial Analysis, Software Engineering 
 
@@ -16,7 +16,7 @@ I am a **Computer Science student** at Century College with aspirations to trans
 ---
 
 ### 🛠️ Technical & Analytical Skills 
-- Programming Languages: C, C++, Java, MATLAB, Python 
+- Programming Languages: C++, Java, Python 
 - Tools & Platforms: Git, IDE's, WSL
 
 ---
