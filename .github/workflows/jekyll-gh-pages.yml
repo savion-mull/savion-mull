@@ -26,13 +26,17 @@ jobs:
       
       # New step to install bundler
       - name: Install Bundler
-        run: sudo gem install bundler
-
+        run: gem install bundler
+      
+      # Configure GEM_HOME to use a writable directory
+      - name: Configure gem path
+        run: echo 'export GEM_HOME=$HOME/.gem' >> $GITHUB_ENV
+      
       - name: Build with Jekyll
         run: |
           echo "remote theme: UiCore/finflow" > _config.yml
           echo "---\nlayout: default\n---\n{% include_relative README.md %}" > index.md
-          bundle install
+          bundle install --path "$HOME/.gem"
           bundle exec jekyll build -d ./_site
 
       - name: Upload artifact
