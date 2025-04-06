@@ -30,6 +30,9 @@ jobs:
       - name: Configure gem path
         run: echo 'export GEM_HOME=$HOME/.gem' >> $GITHUB_ENV
       
+      - name: Add Bundler to PATH
+        run: echo 'export PATH=$HOME/.gem/bin:$PATH' >> $GITHUB_ENV
+      
       - name: Build with Jekyll
         run: |
           echo "remote theme: UiCore/finflow" > _config.yml
