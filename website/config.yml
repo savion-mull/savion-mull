@@ -1,0 +1,15 @@
+# _config.yml
+title: My Jekyll Site
+description: >- # this means to ignore newlines until "baseurl:"
+  A simple Jekyll site configured for GitHub Pages.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://yourusername.github.io" # the base hostname & protocol for your site
+theme: UiCore/finflow # the remote theme you are using
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+permalink: /:year/:month/:day/:title/
+paginate: 5
+paginate_path: "/page:num/"
