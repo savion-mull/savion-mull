@@ -1,5 +1,5 @@
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: Deploy Jekyll with GitHub Pages dependencies preinstalled
+name: Deploy README with Theme to GitHub Pages
 
 on:
   # Runs on pushes targeting the default branch
@@ -28,15 +28,21 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      
       - name: Setup Pages
         uses: actions/configure-pages@v5
+      
       - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./
-          destination: ./_site
+        run: |
+          echo "remote theme: UiCore/finflow" > _config.yml
+          echo "---\nlayout: default\n---\n{% include_relative README.md %}" > index.md
+          bundle install
+          bundle exec jekyll build -d ./_site
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./_site
 
   # Deployment job
   deploy:
@@ -49,24 +55,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-  # Cache Efficiency (Code directly from Marketplace)
-      - name: Cache
-    uses: actions/cache@v4.2.3
-    with:
-    # A list of files, directories, and wildcard patterns to cache and restore
-    path: 
-    # An explicit key for restoring and saving the cache
-    key: 
-    # An ordered multiline string listing the prefix-matched keys, that are used for restoring stale cache if no cache hit occurred for key. Note `cache-hit` returns false in this case.
-    restore-keys: # optional
-    # The chunk size used to split up large files during upload, in bytes
-    upload-chunk-size: # optional
-    # An optional boolean when enabled, allows windows runners to save or restore caches that can be restored or saved respectively on other platforms
-    enableCrossOsArchive: # optional, default is false
-    # Fail the workflow if cache entry is not found
-    fail-on-cache-miss: # optional, default is false
-    # Check if a cache entry exists for the given input(s) (key, restore-keys) without downloading the cache
-    lookup-only: # optional, default is false
-    # Run the post step to save the cache even if another step before fails
-    save-always: # optional, default is false
-    
