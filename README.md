@@ -1,6 +1,5 @@
 # Savion Mull
-###  ***Investment Banking Aspirant | Finance, Physics, & Computer Science***
-#### [Linkedin](https://www.linkedin.com/in/savion-m-9a9439324/) | savion.mull@outlook.com 
+##  ***Investment Banking Aspirant | Finance, Physics, & Computer Science***
 
 A Computer Science Candidate at Century College pursuing a dual major transfer into a **BBA in Finance** and **BS in Physics** at the ***University of Minnesota*** or ***University of Wisconsin***. I am building a rigorous foundation in financial modeling, corporate valuation, and deal execution. My goal is to utilize my analytical problem-solving to strategically leverage my technilogical edge to secure Technology-driven transactions, raise and restructure capital, and to advise corporations in M&A deals through client interactions.
 
@@ -13,7 +12,7 @@ A Computer Science Candidate at Century College pursuing a dual major transfer i
 ---
 
 ## **Technical Expertise** 
-**Breaking Into Wall Street (BIWS) Platinum**
+### **Breaking Into Wall Street (BIWS) Platinum**
 - Financial Modeling & Valuation (DCF, LBO, M&A)
 - Excel & VBA
 - Interview Preperation & Networking 
