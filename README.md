@@ -1,58 +1,43 @@
-# **Savion Mull**  
+# Savion Mull
+###  ***Investment Banking Aspirant | Finance, Physics, & Computer Science***
+#### [Linkedin](https://www.linkedin.com/in/savion-m-9a9439324/) | savion.mull@outlook.com 
 
-### About Me  
-I am a **Computer Science student** at Century College with aspirations to transfer into a **double major in Physics and Economics degree**. My academic and professional pursuits revolve around the intersection of **technology and finance**. I’m passionate about applying computational and analytical thinking to **financial models, capital markets, and advancing technology**. 
-
-- **Career Interests**: Investment Banking, Financial Analysis, Software Engineering 
-
----
-
-## 💼 Career Goals  
-- Break into **Investment Banking** divisions with a strong technical and analytical skillset  
-- Leverage **Computer Science, Economics, & Physics** to use tools and models for understanding capital markets
-- Contribute to innovations at the frontier of **Investment, Equity, and Technology**  
-- Provide lucrative information to corporations to enhance structure, sustainability and market value. 
+My name is **Savion Mull** I'm a Computer Science Candidate at Century College pursuing a dual major transfer into a **BBA in Finance** and **BS in Physics** at the ***University of Minnesota*** or ***University of Wisconsin***. I am building a rigorous foundation in financial modeling, corporate valuation, and deal execution. My goal is to utilize my analytical problem-solving to strategically leverage my technilogical edge to secure Technology-driven transactions, raise and restructure capital, and to advise corporations in M&A deals through client interactions.
 
 ---
 
-### 🛠️ Technical & Analytical Skills 
-- Programming Languages: C++, Java, Python 
-- Tools & Platforms: Git, IDE's, WSL
+## **Career Goals**  
+- Secure **2027 Summer Analyst** roles in **Investment Banking** (ECM/DCM, M&A, or TMT) during my rising junior summer.  
+- Secure **2028 Summer Analyst** roles in **Investment Banking** (ECM/DCM, M&A, or TMT) during my rising senior summer.  
 
 ---
 
-## 🔍 Self-Directed Studies  
-- Breaking into Wall Street Platnium    [***Certification Included***]
-- Codecademy: Data Scientist: Machine Learning Specialist Career Path   [***Certification & Projects Included***]
+## **Technical Expertise** 
+**Breaking Into Wall Street (BIWS) Platinum**
+- Financial Modeling & Valuation (DCF, LBO, M&A)
+- Excel & VBA
+- Interview Preperation & Networking 
 
-### What Do The Courses Teach? 
-#### Technical & Analytical Skills
-- Financial Modeling & Banking Case Studies
-- Excel, Powerpoint, & VBA 
-- Data Analysis & Visualization, & Machine Learning Fundamentals
-- Strong Foundation in Data Science Fundamentals including Python and SQL
+### **Codecademy Pro**
+#### **Full-Stack Engineer**
+- Learning to build web applications from start to finish. This course will start with the front-end, move to the back-end, then connect the two.  
 
-#### Soft Skills
-- Job Interviews, Story Telling, and Answering "Fit" Questions
-- Information Sessions & Interviews, Social Networking (Cold Calls, Emails, & More!)
+#### **Data Scientist: (NLP)**  
+- In this course, I'll learn to extract meaning from text, create chatbots, and build neural networks. 
 
----
-
-## 📚 Currently Reading  
-- *Automating the Boring Stuff with Python* ~ Al Sweigart  
-- *Theoretical Foundations of Investment Banking* ~ Andreas Krause  
-- *Investment Banking, Valuation, LBO's, M&A, and IPO's* ~ Joshua Rosenbaum ***(Next on the list)*** 
+### **Github Projects** 
+** *coming soon* **
 
 ---
 
-### 💡 Fun Facts  
-- I like to go for runs, working out, and playing recreational sports with friends. 
-- I love reading and expanding my knowledge across various disciplines. 
-- My favorite foods are Steak, & Chicken!
+## **Industry Immersion**
+### **Key Reads**
+- *Theoretical Foundations of Investment Banking* ~ Andreas Krause 
+- *Investment Banking, Valuation, LBO's, M&A, and IPO's (Workbook Included)* ~ Rosenbaum, Joshua 
+- *Barbarians at the Gate: The Fall of RJR Nabisco* ~ Burrough, Bryan; Helyar, John
 
----
+### **Complete Reading List**
+** *coming soon* **
 
-## 📢 Connect with Me  
-For more insights into my academic and professional journey:  
-- Explore my [LinkedIn Profile](https://www.linkedin.com/in/savion-m-9a9439324/).
-- Checkout my github for periodic updates and projects on my GitHub.
+## **Let’s Connect**  
+**Open to:** Mock interview exchanges, case study & stock pitch competitions, and deep dives on IB technicals.  
