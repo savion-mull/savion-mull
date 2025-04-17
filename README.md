@@ -14,7 +14,7 @@ A Computer Science Candidate at Century College pursuing a dual major transfer i
 ## **Technical Expertise** 
 ### **Breaking Into Wall Street (BIWS) Platinum**
 - Financial Modeling & Valuation (DCF, LBO, M&A)
-- Excel & VBA
+- Advanced Excel & VBA
 - Interview Preperation & Networking 
 
 ### **Codecademy Pro**
