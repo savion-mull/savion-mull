@@ -1,22 +1,8 @@
 # Savion Mull
-##  ***Financial Analyst | Quantitative Research & Data Science | Physics & Computer Science***
+##  ***Financial Analyst | Quant Research | Physics & Computer Science***
 
-A Computer Science candidate at Century College pursuing a dual major transfer into a **BA in Mathematics** and **BS in Physics** at the ***University of Minnesota*** or ***University of Wisconsin***. I am building a rigourous foundation in financial analysis, quant itative research, and data-driven decision making through research. My goal is to utilize my analytical problem-solving to strategically leverage my technilogical edge to secure Technology-driven transactions, raise and restructure capital, and to advise corporations in M&A deals through client interactions.
-
----
-
-## **Career Goals**  
-- 
+A Computer Science candidate at Century College pursuing a dual major transfer into a **BS in Computer Science & Physics** at a University. My academic and self-directed work focuses on the intersection of financial analysis, quantitative research, and data-driven decision-making. My goal is to develop a analytical adn problem solving foundation across financial modeling, and computational research to apply to valuation, capital markets, and systematic trading.
 
 ---
 
-## **Technical Expertise** 
-
-### **Breaking Into Wall Street (BIWS) Platinum**
-### **Codecademy Pro**
-
-### **Github Projects** 
-** *coming soon* **
-
----
-
+Disclaimer: This github repo serves as a public learning ledger and research portfolio, to document both my development and research in my philosophy on finance overtime. 
