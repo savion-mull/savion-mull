@@ -5,4 +5,4 @@ A Computer Science candidate at Century College pursuing a dual major transfer i
 
 ---
 
-Disclaimer: This github repo serves as a public learning ledger and research portfolio, to document both my development and research in my philosophy on finance overtime. 
+Disclaimer: This github repo serves as a public learning ledger and research portfolio, to document both my development and research in my philosophy on finance, and programming knowledge overtime. 
