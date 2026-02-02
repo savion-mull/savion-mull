@@ -1,7 +1,6 @@
-# Savion Mull
-##  ***Financial Analyst | Quant Research | Mathematics & Computer Science***
+##  ***Financial Research | Mathematics & Computer Science***
 
-A Computer Science candidate at Century College pursuing a dual major transfer into a **BS in Computer Science & Mathematics** at a University. My github is a reflection of my self-directed work, and focuses on the intersection of financial analysis, data-driven decision-making, and quantitative research. My goal is to develop a problem-solving foundation across financial modeling, and computational research to apply to valuation, capital markets, and systematic trading.
+Hey, my name is Savion, a Computer Science student at Century College pursuing a A.S. in Computer Science, and a transfer into a dual major; **BS in Computer Science & Mathematics** at a university. My github is a reflection of my self-directed work, and focuses on the intersection of financial analysis, data-driven decision-making, and quantitative research. My goal is to develop a problem-solving foundation across financial modeling, and computational research to apply to valuation, capital markets, and systematic trading.
 
 ---
 
